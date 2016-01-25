@@ -1,2 +1,2 @@
-# Inference-BaseOS
+# terriaml:baseos
 Base OS Docker image for Terria Inference
